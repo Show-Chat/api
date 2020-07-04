@@ -14,7 +14,7 @@
 			enable_cors: false,
 			cors: "https://rcr-cors.herokuapp.com",
 			artwork: true,
-            logo: "https://m.showchat.tk/img/no-cover-large.gif",
+            logo: "https://api.showchat.tk/radio/images/no-cover-large.gif",
 			vertical_layout: false,
             bg: "grey",
             accent: "deeporange",
